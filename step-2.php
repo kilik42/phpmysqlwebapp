@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
   <meta charset="utf-8">
@@ -38,10 +38,11 @@
       <div class="column4">
         <input type="text" class="large-fld"name="ineed" value=""placeholder="i need this..."/>
       </div>
+      
       <div class="column5">
         <input type="text" class="large-fld"name="ioffer" value=""placeholder="i can offer this..."/>
       </div>
-      <br></br>
+      
       <div class="column3">
         <input type="submit" class="large-btn large-magnify"name="step1" value="Find Matches"/>
       </div>
